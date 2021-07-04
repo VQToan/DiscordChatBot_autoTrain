@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/body/example/MusicBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brian/NER/bert_vn_ner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brian/NER/ner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brian/NER/vie-ner-lstm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/keras-contrib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/keras-contrib/keras-contrib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/keras-contrib/keras-contrib/keras-contrib" vcs="Git" />
+  </component>
+</project>

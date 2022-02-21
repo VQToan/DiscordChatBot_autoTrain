@@ -82,4 +82,4 @@ async def on_message(ctx):
             await ctx.channel.send(file=discord.File('brian/data/textout.txt'))
 
 
-client.run("ODE0OTQyNzkxMzMxMzQ4NTMx.YDlMng.2_c7rutZTZz3n3fDTnDpsVnl2U8")
+client.run("TOKEN")
